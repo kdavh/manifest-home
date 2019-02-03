@@ -1,0 +1,14 @@
+aliases:
+  core: kdavh/packages-core
+install:
+  - core:curl
+  - core:git
+  - core:make
+  - core:golang
+  # - python3
+  - core:jq
+  - core:turtl
+  - core:vscode
+  # - zsh
+
+  - core:nvm
