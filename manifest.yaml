@@ -1,6 +1,7 @@
 aliases:
   core: kdavh/packages-core
 install:
+  - core:aws
   - core:curl
   - core:git
   - core:make
